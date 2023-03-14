@@ -37,8 +37,7 @@ If you have questions concerning this license or the applicable additional terms
 #include "d_englsh.h"
 
 // Misc. other strings.
-#define SAVEGAMENAME	"doomsav"
-
+#define SAVEGAMENAME "doomsav"
 
 //
 // File locations,
@@ -50,10 +49,8 @@ If you have questions concerning this license or the applicable additional terms
 
 
 // QuitDOOM messages
-#define NUM_QUITMESSAGES   22
+#define NUM_QUITMESSAGES 22
 
 extern const char* endmsg[];
 
-
-#endif
-
+#endif // __DSTRINGS__
