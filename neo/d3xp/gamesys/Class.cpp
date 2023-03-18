@@ -37,8 +37,8 @@ instancing of objects.
 
 
 #include "../Game_local.h"
-
-#include "TypeInfo.h"
+#include "../../d3xp/gamesys/Class.h"
+//#include "TypeInfo.h"
 
 
 /***********************************************************************
